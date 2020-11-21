@@ -8,7 +8,7 @@
 
 
 
-```cli
+```py
 Superuser_data = {
   "login": admin,
   "pass": 1,
