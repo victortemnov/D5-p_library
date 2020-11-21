@@ -4,12 +4,15 @@
 2. After downloading create vurtualenv. `py -m vevn (your_path)`
 3. And install requirements. `pip install -r requiremenets.txt`
 
-## URLS:
+## URL:
 
 127.0.0.1:8000 - home page
+127.0.0.1:8000/admin - admin panel
 
-```py
-Superuser_data = {
+### DATA admin:
+
+```
+Superuser = {
   "login": admin,
   "pass": 1,
 }
