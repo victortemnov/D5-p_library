@@ -3,6 +3,7 @@
 1. Clone project: `git clone https://github.com/victortemnov/D5-p_library`
 2. After downloading create vurtualenv. `py -m vevn (your_path)`
 3. And install requirements. `pip install -r requiremenets.txt`
+4. In root: `py manage.py runserver`
 
 ## URL:
 
