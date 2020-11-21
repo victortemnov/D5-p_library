@@ -6,7 +6,7 @@
 
 ## URL:
 
-127.0.0.1:8000 - home page
+127.0.0.1:8000 - Home page person library
 
 127.0.0.1:8000/admin - admin panel
 
