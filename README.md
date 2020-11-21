@@ -8,7 +8,7 @@
 
 
 
-```cmd
+```cli
 Superuser_data = {
   "login": admin,
   "pass": 1,
