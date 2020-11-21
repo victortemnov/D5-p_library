@@ -13,7 +13,7 @@
 ### DATA admin:
 
 ```
-Superuser = {
+SuperUser = {
   "login": admin,
   "pass": 1,
 }
