@@ -4,7 +4,7 @@
 2. After downloading create vurtualenv. `py -m vevn (your_path)`
 3. And install requirements. `pip install -r requiremenets.txt`
 4. In root: `py manage.py runserver`
-5. And go to home page.
+5. And follow ulrs below.
 
 ## URL:
 
